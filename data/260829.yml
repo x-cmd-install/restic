@@ -1,0 +1,60 @@
+about:
+  description: Fast, secure, efficient backup program
+  license: BSD-2-Clause
+  homepage: https://restic.net
+  head: a80be14
+  archived: false
+  latestVersion: v0.19.1
+  collectedAt: 2026-08-29T06:59:27Z
+timeline:
+  created: 2014-04-27
+  lastCommit: 2026-08-01
+  lastRelease: 2026-07-05
+popularity:
+  star: 35763
+  watcher: 235
+  fork: 1849
+  release: 51
+  contributor: 428
+  pullRequest: 558
+  issue: 3016
+language:
+  Go: 2392261
+  Shell: 4770
+  Go Template: 930
+  Dockerfile: 648
+  Makefile: 133
+totalLine: 2398742
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 6
+    openPR: 23
+    closedIssue: 2
+    openIssue: 13
+    commit: 6
+  last90d:
+    since: 2026-05-31
+    release: 2
+    mergedPR: 74
+    openPR: 55
+    closedIssue: 35
+    openIssue: 29
+    commit: 232
+  last180d:
+    since: 2026-03-02
+    release: 2
+    mergedPR: 105
+    openPR: 72
+    closedIssue: 61
+    openIssue: 44
+    commit: 340
+  last360d:
+    since: 2025-09-03
+    release: 3
+    mergedPR: 227
+    openPR: 87
+    closedIssue: 104
+    openIssue: 94
+    commit: 667
