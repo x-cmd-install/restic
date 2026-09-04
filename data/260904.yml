@@ -7,13 +7,13 @@ about:
   head: ba802d4
   archived: false
   latestVersion: v0.19.1
-  collectedAt: 2026-09-04T19:29:21Z
+  collectedAt: 2026-09-04T21:01:09Z
 timeline:
   created: 2014-04-27
   lastCommit: 2026-08-29
   lastRelease: 2026-07-05
 popularity:
-  star: 35858
+  star: 35861
   watcher: 237
   fork: 1863
   release: 51
@@ -84,6 +84,79 @@ total:
   openIssue: 470
   commit: 9896
 ---
+path: /home/runner/.x-repo/github.com/restic/restic
+collectedAt: 2026-09-04T21:01:14Z
+loc:
+  Go:
+    code: 69074
+    comments: 6086
+    blanks: 13371
+    files: 559
+  ReStructuredText:
+    code: 6445
+    comments: 0
+    blanks: 2028
+    files: 23
+  Sh:
+    code: 3798
+    comments: 52
+    blanks: 324
+    files: 4
+  PowerShell:
+    code: 159
+    comments: 63
+    blanks: 48
+    files: 1
+  Zsh:
+    code: 146
+    comments: 36
+    blanks: 30
+    files: 1
+  Fish:
+    code: 140
+    comments: 49
+    blanks: 46
+    files: 1
+  RPMSpecfile:
+    code: 56
+    comments: 0
+    blanks: 20
+    files: 1
+  Python:
+    code: 42
+    comments: 51
+    blanks: 24
+    files: 1
+  Makefile:
+    code: 21
+    comments: 6
+    blanks: 11
+    files: 2
+  Dockerfile:
+    code: 14
+    comments: 4
+    blanks: 6
+    files: 1
+  Css:
+    code: 11
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 5708
+    blanks: 2509
+    files: 5
+  Text:
+    code: 0
+    comments: 78
+    blanks: 17
+    files: 2
+total:
+  code: 79906
+  comments: 12133
+  blanks: 18437
+  files: 602
 ---
 date: "2026-08-24"
 repo:
