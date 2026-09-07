@@ -5,15 +5,15 @@ about:
   head: ba802d4
   archived: false
   latestVersion: "v0.19.1"
-  collectedAt: 2026-09-07T04:54:42Z
+  collectedAt: 2026-09-07T19:29:10Z
 timeline:
   created: 2014-04-27
   lastCommit: 2026-08-29
   lastRelease: 2026-07-05
 popularity:
-  star: 35903
+  star: 35917
   watcher: 237
-  fork: 1866
+  fork: 1868
   release: 51
   contributor: 433
   pullRequest: 3017
@@ -83,7 +83,7 @@ total:
   commit: 9896
 ---
 path: /home/runner/.x-repo/github.com/restic/restic
-collectedAt: 2026-09-07T04:54:50Z
+collectedAt: 2026-09-07T19:29:19Z
 loc:
   Go:
     code: 69074
@@ -275,7 +275,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/docker.yml:16'
 ---
 eget:
-  collectedAt: 2026-09-07T04:54:51+00:00
+  collectedAt: 2026-09-07T19:29:20+00:00
   platform:
     darwin/arm64:
       name:  restic_0.19.1_darwin_arm64.bz2
