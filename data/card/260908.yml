@@ -5,13 +5,13 @@ about:
   head: ba802d4
   archived: false
   latestVersion: "v0.19.1"
-  collectedAt: 2026-09-08T02:11:12Z
+  collectedAt: 2026-09-08T04:49:08Z
 timeline:
   created: 2014-04-27
   lastCommit: 2026-08-29
   lastRelease: 2026-07-05
 popularity:
-  star: 35920
+  star: 35923
   watcher: 237
   fork: 1869
   release: 51
@@ -83,7 +83,7 @@ total:
   commit: 9896
 ---
 path: /home/runner/.x-repo/github.com/restic/restic
-collectedAt: 2026-09-08T02:11:21Z
+collectedAt: 2026-09-08T04:49:16Z
 loc:
   Go:
     code: 69074
