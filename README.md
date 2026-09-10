@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 35,962 · **Forks**: 1,868 · **Open issues**: 3,024 · **Contributors**: 433
+- **Stars**: 35,965 · **Forks**: 1,868 · **Open issues**: 3,024 · **Contributors**: 433
 
 ## Totals (cumulative)
 
@@ -127,4 +127,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:50:00Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:10:57Z._
