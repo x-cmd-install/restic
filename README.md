@@ -12,6 +12,28 @@ Fast, secure, efficient backup program
 x install restic
 ```
 
+## Code insight
+
+Total: **79,906** lines of code across **588** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 69,074 | 6,086 | 13,371 | 559 |
+| ReStructuredText | 6,445 | 0 | 2,028 | 23 |
+| Sh | 3,798 | 52 | 324 | 4 |
+| PowerShell | 159 | 63 | 48 | 1 |
+| Zsh | 146 | 36 | 30 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **7.4 / 10**
+
+Lowest-scoring checks:
+
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+
 ## Source
 
 - **Upstream**: <https://github.com/restic/restic>
@@ -23,6 +45,25 @@ x install restic
 - **Latest**: `v0.19.1` (2026-07-05)
 - **Last commit**: 2026-08-29
 - **Assets in release**: 29
+
+## Popularity
+
+- **Stars**: 35,962 · **Forks**: 1,868 · **Open issues**: 3,024 · **Contributors**: 433
+
+## Totals (cumulative)
+
+- **Releases**: 51 · **Merged PRs**: 2452 · **Open PRs**: 122 · **Closed issues**: 2551 · **Open issues**: 473 · **Commits**: 9896
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 7 | 27 | 5 | 15 | 10 |
+| last60d | 2026-07-12 | 0 | 20 | 38 | 20 | 24 | 34 |
+| 90d | 2026-06-12 | 1 | 53 | 60 | 32 | 30 | 94 |
+| last180d | 2026-03-14 | 2 | 115 | 78 | 60 | 44 | 350 |
+| 360d | 2025-09-15 | 3 | 223 | 95 | 107 | 88 | 580 |
+| last720d | 2024-09-20 | 6 | 404 | 111 | 236 | 156 | 1361 |
 
 ## Release assets
 
@@ -58,43 +99,24 @@ x install restic
 | [SHA256SUMS](https://github.com/restic/restic/releases/download/v0.19.1/SHA256SUMS) | 2.4 KiB | `other` |
 | [SHA256SUMS.asc](https://github.com/restic/restic/releases/download/v0.19.1/SHA256SUMS.asc) | 833 B | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 35,960 · **Forks**: 1,868 · **Open issues**: 3,024 · **Contributors**: 433
+Reported by **170** distros on [repology.org](https://repology.org/project/restic). **48** are ✅ on the latest upstream release, **95** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 51 · **Merged PRs**: 2452 · **Open PRs**: 122 · **Closed issues**: 2550 · **Open issues**: 474 · **Commits**: 9896
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 7 | 27 | 5 | 15 | 10 |
-| 90d | 2026-06-12 | 1 | 53 | 60 | 32 | 30 | 94 |
-| 360d | 2025-09-15 | 3 | 223 | 95 | 107 | 88 | 580 |
-
-## Code size
-
-Total: **79,906** lines of code across **588** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 69,074 | 6,086 | 13,371 | 559 |
-| ReStructuredText | 6,445 | 0 | 2,028 | 23 |
-| Sh | 3,798 | 52 | 324 | 4 |
-| PowerShell | 159 | 63 | 48 | 1 |
-| Zsh | 146 | 36 | 30 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **7.4 / 10**
-
-Lowest-scoring checks:
-
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.19.1` | ✅ latest |
+| Debian 14 | `0.19.1` | ✅ latest |
+| Debian 13 | `0.18.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.18.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.16.4` | ⚠️ outdated |
+| Arch | `0.19.1` | ✅ latest |
+| Homebrew | `0.19.1` | ✅ latest |
+| Fedora rawhide | `0.19.1` | ✅ latest |
+| Nix unstable | `0.19.1` | ✅ latest |
+| Void | `0.19.1` | ✅ latest |
+| Alpine edge | `0.19.1` | ✅ latest |
+| openSUSE Tumbleweed | `0.19.1` | ✅ latest |
 
 ## Improve this data
 
@@ -105,4 +127,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:51:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:50:00Z._
