@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.19.1"
   latestRelease: "v0.19.1"
   latestPrerelease: "v0.6.0-rc.1"
-  collectedAt: 2026-09-10T20:49:46Z
+  collectedAt: 2026-09-10T23:10:41Z
 timeline:
   created: 2014-04-27
   lastCommit: 2026-08-29
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-05
   lastPrerelease: 2017-05-25
 popularity:
-  star: 35962
+  star: 35965
   watcher: 237
   fork: 1868
   release: 51
@@ -87,7 +87,7 @@ total:
   commit: 9896
 ---
 path: /home/runner/.x-repo/github.com/restic/restic
-collectedAt: 2026-09-10T20:49:54Z
+collectedAt: 2026-09-10T23:10:50Z
 loc:
   Go:
     code: 69074
