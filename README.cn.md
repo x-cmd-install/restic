@@ -48,7 +48,7 @@ x install restic
 
 ## 流行度
 
-- **Star**: 36,018 · **Fork**: 1,872 · **开放 issue**: 3,024 · **贡献者**: 433
+- **Star**: 36,039 · **Fork**: 1,873 · **开放 issue**: 3,024 · **贡献者**: 433
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install restic
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 6 | 27 | 5 | 14 | 10 |
-| last60d | 2026-07-15 | 0 | 18 | 39 | 8 | 22 | 34 |
-| 90d | 2026-06-15 | 1 | 41 | 61 | 30 | 30 | 94 |
-| last180d | 2026-03-17 | 2 | 115 | 79 | 59 | 44 | 350 |
-| 360d | 2025-09-18 | 3 | 219 | 96 | 107 | 88 | 580 |
-| last720d | 2024-09-23 | 6 | 404 | 112 | 235 | 156 | 1361 |
+| 30d | 2026-08-15 | 0 | 6 | 25 | 5 | 14 | 10 |
+| last60d | 2026-07-16 | 0 | 18 | 39 | 8 | 22 | 29 |
+| 90d | 2026-06-16 | 1 | 41 | 61 | 29 | 30 | 57 |
+| last180d | 2026-03-18 | 2 | 115 | 79 | 59 | 44 | 350 |
+| 360d | 2025-09-19 | 3 | 219 | 96 | 107 | 87 | 541 |
+| last720d | 2024-09-24 | 6 | 404 | 112 | 235 | 155 | 1361 |
 
 ## Release 资产
 
@@ -99,25 +99,6 @@ x install restic
 | [SHA256SUMS](https://github.com/restic/restic/releases/download/v0.19.1/SHA256SUMS) | 2.4 KiB | `other` |
 | [SHA256SUMS.asc](https://github.com/restic/restic/releases/download/v0.19.1/SHA256SUMS.asc) | 833 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/restic) 上共有 **170** 个发行版报告此项目。**48** 个 ✅ 已是最新上游版本，**95** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.19.1` | ✅ latest |
-| Debian 14 | `0.19.1` | ✅ latest |
-| Debian 13 | `0.18.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.18.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.16.4` | ⚠️ outdated |
-| Arch | `0.19.1` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `0.19.1` | ✅ latest |
-| Nix unstable | `0.19.1` | ✅ latest |
-| Void | `0.19.1` | ✅ latest |
-| Alpine edge | `0.19.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.19.1` | ✅ latest |
-
 ## 改进这些数据
 
 restic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `restic` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -127,4 +108,4 @@ restic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:04:41Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:19:31Z._
