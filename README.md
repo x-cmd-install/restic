@@ -4,7 +4,7 @@
 
 Fast, secure, efficient backup program
 
-![restic](https://repo.x-cmd.io/restic.svg)
+[![x-cmd/install — restic Code Quality Monitoring Repo Card](https://repo.x-cmd.io/restic.svg)](https://x-cmd.com/install/restic)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 36,106 · **Forks**: 1,876 · **Open issues**: 3,025 · **Contributors**: 433
+- **Stars**: 36,141 · **Forks**: 1,878 · **Open issues**: 3,025 · **Contributors**: 433
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 5 | 27 | 3 | 11 | 10 |
-| last60d | 2026-07-20 | 0 | 17 | 40 | 7 | 21 | 29 |
-| 90d | 2026-06-20 | 1 | 35 | 62 | 25 | 30 | 57 |
-| last180d | 2026-03-22 | 2 | 115 | 80 | 57 | 42 | 350 |
-| 360d | 2025-09-23 | 2 | 214 | 98 | 106 | 85 | 541 |
-| last720d | 2024-09-28 | 6 | 404 | 114 | 235 | 155 | 1361 |
+| 30d | 2026-08-21 | 0 | 4 | 22 | 3 | 9 | 10 |
+| last60d | 2026-07-22 | 0 | 16 | 40 | 7 | 21 | 29 |
+| 90d | 2026-06-22 | 1 | 33 | 61 | 25 | 28 | 57 |
+| last180d | 2026-03-24 | 2 | 115 | 79 | 57 | 41 | 350 |
+| 360d | 2025-09-25 | 2 | 211 | 97 | 106 | 84 | 541 |
+| last720d | 2024-09-30 | 6 | 402 | 114 | 235 | 155 | 1361 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:14:09Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:11:02Z._

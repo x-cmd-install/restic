@@ -4,7 +4,7 @@
 
 Fast, secure, efficient backup program
 
-![restic](https://repo.x-cmd.io/restic.svg?lang=zh)
+[![x-cmd/install — restic Code Quality Monitoring Repo Card](https://repo.x-cmd.io/restic.svg?lang=zh)](https://x-cmd.com/install/restic)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install restic
 
 ## 流行度
 
-- **Star**: 36,106 · **Fork**: 1,876 · **开放 issue**: 3,025 · **贡献者**: 433
+- **Star**: 36,141 · **Fork**: 1,878 · **开放 issue**: 3,025 · **贡献者**: 433
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install restic
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 5 | 27 | 3 | 11 | 10 |
-| last60d | 2026-07-20 | 0 | 17 | 40 | 7 | 21 | 29 |
-| 90d | 2026-06-20 | 1 | 35 | 62 | 25 | 30 | 57 |
-| last180d | 2026-03-22 | 2 | 115 | 80 | 57 | 42 | 350 |
-| 360d | 2025-09-23 | 2 | 214 | 98 | 106 | 85 | 541 |
-| last720d | 2024-09-28 | 6 | 404 | 114 | 235 | 155 | 1361 |
+| 30d | 2026-08-21 | 0 | 4 | 22 | 3 | 9 | 10 |
+| last60d | 2026-07-22 | 0 | 16 | 40 | 7 | 21 | 29 |
+| 90d | 2026-06-22 | 1 | 33 | 61 | 25 | 28 | 57 |
+| last180d | 2026-03-24 | 2 | 115 | 79 | 57 | 41 | 350 |
+| 360d | 2025-09-25 | 2 | 211 | 97 | 106 | 84 | 541 |
+| last720d | 2024-09-30 | 6 | 402 | 114 | 235 | 155 | 1361 |
 
 ## Release 资产
 
@@ -108,4 +108,4 @@ restic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:14:11Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:11:02Z._
