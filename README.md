@@ -31,8 +31,8 @@ Overall score: **7.3 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 36,541 · **Forks**: 1,921 · **Open issues**: 3,036 · **Contributors**: 435
+- **Stars**: 36,555 · **Forks**: 1,923 · **Open issues**: 3,037 · **Contributors**: 435
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 2467 · **Open PRs**: 141 · **Closed issues**: 2555 · **Open issues**: 481 · **Commits**: 9915
+- **Releases**: 51 · **Merged PRs**: 2467 · **Open PRs**: 140 · **Closed issues**: 2555 · **Open issues**: 482 · **Commits**: 9915
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 8 | 28 | 2 | 11 | 16 |
-| last60d | 2026-08-14 | 0 | 20 | 47 | 9 | 23 | 27 |
-| 90d | 2026-07-15 | 0 | 33 | 58 | 13 | 30 | 46 |
-| last180d | 2026-04-16 | 2 | 122 | 92 | 52 | 46 | 364 |
-| 360d | 2025-10-18 | 2 | 208 | 113 | 104 | 89 | 506 |
-| last720d | 2024-10-23 | 6 | 400 | 130 | 229 | 162 | 1303 |
+| 30d | 2026-09-14 | 0 | 8 | 27 | 2 | 12 | 16 |
+| last60d | 2026-08-15 | 0 | 20 | 44 | 9 | 24 | 27 |
+| 90d | 2026-07-16 | 0 | 33 | 57 | 13 | 31 | 46 |
+| last180d | 2026-04-17 | 2 | 122 | 91 | 52 | 47 | 364 |
+| 360d | 2025-10-19 | 2 | 208 | 112 | 103 | 90 | 506 |
+| last720d | 2024-10-24 | 6 | 400 | 129 | 229 | 163 | 1301 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:08:20Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:08:35Z._

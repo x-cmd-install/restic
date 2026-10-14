@@ -31,8 +31,8 @@ x install restic
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install restic
 
 ## 流行度
 
-- **Star**: 36,541 · **Fork**: 1,921 · **开放 issue**: 3,036 · **贡献者**: 435
+- **Star**: 36,555 · **Fork**: 1,923 · **开放 issue**: 3,037 · **贡献者**: 435
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 2467 · **开放 PR**: 141 · **已关闭 issue**: 2555 · **开放 issue**: 481 · **提交数**: 9915
+- **发布数**: 51 · **已合并 PR**: 2467 · **开放 PR**: 140 · **已关闭 issue**: 2555 · **开放 issue**: 482 · **提交数**: 9915
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 8 | 28 | 2 | 11 | 16 |
-| last60d | 2026-08-14 | 0 | 20 | 47 | 9 | 23 | 27 |
-| 90d | 2026-07-15 | 0 | 33 | 58 | 13 | 30 | 46 |
-| last180d | 2026-04-16 | 2 | 122 | 92 | 52 | 46 | 364 |
-| 360d | 2025-10-18 | 2 | 208 | 113 | 104 | 89 | 506 |
-| last720d | 2024-10-23 | 6 | 400 | 130 | 229 | 162 | 1303 |
+| 30d | 2026-09-14 | 0 | 8 | 27 | 2 | 12 | 16 |
+| last60d | 2026-08-15 | 0 | 20 | 44 | 9 | 24 | 27 |
+| 90d | 2026-07-16 | 0 | 33 | 57 | 13 | 31 | 46 |
+| last180d | 2026-04-17 | 2 | 122 | 91 | 52 | 47 | 364 |
+| 360d | 2025-10-19 | 2 | 208 | 112 | 103 | 90 | 506 |
+| last720d | 2024-10-24 | 6 | 400 | 129 | 229 | 163 | 1301 |
 
 ## Release 资产
 
@@ -108,4 +108,4 @@ restic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T07:08:21Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T05:08:35Z._
