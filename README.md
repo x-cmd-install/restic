@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 36,720 · **Forks**: 1,933 · **Open issues**: 3,041 · **Contributors**: 438
+- **Stars**: 36,744 · **Forks**: 1,937 · **Open issues**: 3,043 · **Contributors**: 438
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 2473 · **Open PRs**: 146 · **Closed issues**: 2558 · **Open issues**: 483 · **Commits**: 9927
+- **Releases**: 51 · **Merged PRs**: 2473 · **Open PRs**: 150 · **Closed issues**: 2558 · **Open issues**: 485 · **Commits**: 9927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 9 | 29 | 3 | 14 | 15 |
-| last60d | 2026-08-23 | 0 | 24 | 45 | 8 | 21 | 37 |
-| 90d | 2026-07-24 | 0 | 37 | 61 | 12 | 32 | 43 |
-| last180d | 2026-04-25 | 2 | 127 | 96 | 52 | 49 | 374 |
-| 360d | 2025-10-27 | 2 | 212 | 117 | 102 | 88 | 516 |
-| last720d | 2024-11-01 | 5 | 393 | 135 | 226 | 163 | 1292 |
+| 30d | 2026-09-23 | 0 | 9 | 32 | 3 | 16 | 15 |
+| last60d | 2026-08-24 | 0 | 24 | 48 | 8 | 23 | 37 |
+| 90d | 2026-07-25 | 0 | 37 | 64 | 12 | 34 | 43 |
+| last180d | 2026-04-26 | 2 | 127 | 100 | 52 | 51 | 374 |
+| 360d | 2025-10-28 | 2 | 212 | 121 | 102 | 90 | 516 |
+| last720d | 2024-11-02 | 5 | 393 | 139 | 226 | 165 | 1262 |
 
 ## Release assets
 
@@ -99,6 +99,25 @@ Lowest-scoring checks:
 | [SHA256SUMS](https://github.com/restic/restic/releases/download/v0.19.1/SHA256SUMS) | 2.4 KiB | `other` |
 | [SHA256SUMS.asc](https://github.com/restic/restic/releases/download/v0.19.1/SHA256SUMS.asc) | 833 B | `other` |
 
+## Distribution status
+
+Reported by **167** distros on [repology.org](https://repology.org/project/restic). **56** are ✅ on the latest upstream release, **83** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.19.1` | ✅ latest |
+| Debian 14 | `0.19.1` | ✅ latest |
+| Debian 13 | `0.18.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.18.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.16.4` | ⚠️ outdated |
+| Arch | `0.19.1` | ✅ latest |
+| Homebrew | `0.19.1` | ✅ latest |
+| Fedora rawhide | `0.19.1` | ✅ latest |
+| Nix unstable | `0.19.1` | ✅ latest |
+| Void | `0.19.1` | ✅ latest |
+| Alpine edge | `0.19.1` | ✅ latest |
+| openSUSE Tumbleweed | `0.19.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `restic` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -108,4 +127,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:55:24Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:58:14Z._
