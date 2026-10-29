@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 36,848 · **Forks**: 1,946 · **Open issues**: 3,045 · **Contributors**: 438
+- **Stars**: 36,868 · **Forks**: 1,946 · **Open issues**: 3,045 · **Contributors**: 437
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 2473 · **Open PRs**: 152 · **Closed issues**: 2558 · **Open issues**: 487 · **Commits**: 9927
+- **Releases**: 51 · **Merged PRs**: 2473 · **Open PRs**: 154 · **Closed issues**: 2558 · **Open issues**: 487 · **Commits**: 9927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 9 | 31 | 3 | 17 | 13 |
-| last60d | 2026-08-29 | 0 | 19 | 48 | 6 | 23 | 27 |
-| 90d | 2026-07-30 | 0 | 36 | 63 | 11 | 34 | 37 |
-| last180d | 2026-05-01 | 2 | 127 | 100 | 52 | 53 | 374 |
-| 360d | 2025-11-02 | 2 | 208 | 123 | 102 | 88 | 514 |
-| last720d | 2024-11-07 | 5 | 390 | 141 | 221 | 167 | 1242 |
+| 30d | 2026-09-29 | 0 | 9 | 31 | 3 | 15 | 13 |
+| last60d | 2026-08-30 | 0 | 19 | 49 | 5 | 23 | 27 |
+| 90d | 2026-07-31 | 0 | 36 | 65 | 11 | 34 | 37 |
+| last180d | 2026-05-02 | 2 | 127 | 102 | 52 | 53 | 374 |
+| 360d | 2025-11-03 | 2 | 208 | 125 | 102 | 88 | 514 |
+| last720d | 2024-11-08 | 5 | 390 | 143 | 220 | 167 | 1242 |
 
 ## Release assets
 
@@ -101,7 +101,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **168** distros on [repology.org](https://repology.org/project/restic). **57** are ✅ on the latest upstream release, **83** are ⚠️ on an older version.
+Reported by **168** distros on [repology.org](https://repology.org/project/restic). **58** are ✅ on the latest upstream release, **82** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -127,4 +127,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:54:22Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:00:21Z._
