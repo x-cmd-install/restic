@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 36,965 · **Forks**: 1,950 · **Open issues**: 3,051 · **Contributors**: 437
+- **Stars**: 36,988 · **Forks**: 1,951 · **Open issues**: 3,051 · **Contributors**: 437
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 2473 · **Open PRs**: 164 · **Closed issues**: 2558 · **Open issues**: 493 · **Commits**: 9927
+- **Releases**: 51 · **Merged PRs**: 2473 · **Open PRs**: 165 · **Closed issues**: 2558 · **Open issues**: 493 · **Commits**: 9927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 5 | 37 | 3 | 17 | 13 |
-| last60d | 2026-09-04 | 0 | 15 | 56 | 5 | 27 | 26 |
-| 90d | 2026-08-05 | 0 | 27 | 76 | 11 | 40 | 37 |
-| last180d | 2026-05-07 | 2 | 127 | 111 | 51 | 56 | 350 |
-| 360d | 2025-11-08 | 2 | 205 | 135 | 98 | 94 | 512 |
-| last720d | 2024-11-13 | 4 | 388 | 153 | 217 | 171 | 1233 |
+| 30d | 2026-10-05 | 0 | 3 | 35 | 3 | 17 | 13 |
+| last60d | 2026-09-05 | 0 | 15 | 57 | 5 | 27 | 26 |
+| 90d | 2026-08-06 | 0 | 27 | 75 | 11 | 39 | 37 |
+| last180d | 2026-05-08 | 2 | 127 | 111 | 51 | 56 | 350 |
+| 360d | 2025-11-09 | 2 | 205 | 136 | 98 | 94 | 512 |
+| last720d | 2024-11-14 | 4 | 388 | 154 | 216 | 171 | 1232 |
 
 ## Release assets
 
@@ -111,7 +111,7 @@ Reported by **168** distros on [repology.org](https://repology.org/project/resti
 | Ubuntu 26.04 LTS | `0.18.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.16.4` | ⚠️ outdated |
 | Arch | `0.19.1` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.19.1` | ✅ latest |
 | Fedora rawhide | `0.19.1` | ✅ latest |
 | Nix unstable | `0.19.1` | ✅ latest |
 | Void | `0.19.1` | ✅ latest |
@@ -127,4 +127,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:02:00Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:33:04Z._
