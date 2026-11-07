@@ -14,11 +14,11 @@ x install restic
 
 ## Code insight
 
-Total: **80,038** lines of code across **588** files in the top 5 languages.
+Total: **80,039** lines of code across **588** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 69,174 | 6,083 | 13,379 | 559 |
+| Go | 69,175 | 6,083 | 13,379 | 559 |
 | ReStructuredText | 6,477 | 0 | 2,036 | 23 |
 | Sh | 3,798 | 52 | 324 | 4 |
 | PowerShell | 159 | 63 | 48 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.19.1` (2026-07-05)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 37,023 · **Forks**: 1,955 · **Open issues**: 3,052 · **Contributors**: 444
+- **Stars**: 37,039 · **Forks**: 1,955 · **Open issues**: 3,052 · **Contributors**: 444
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 2483 · **Open PRs**: 155 · **Closed issues**: 2564 · **Open issues**: 488 · **Commits**: 9939
+- **Releases**: 51 · **Merged PRs**: 2485 · **Open PRs**: 154 · **Closed issues**: 2564 · **Open issues**: 488 · **Commits**: 9941
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 11 | 29 | 5 | 16 | 24 |
-| last60d | 2026-09-07 | 0 | 24 | 47 | 7 | 27 | 37 |
-| 90d | 2026-08-08 | 0 | 37 | 66 | 13 | 38 | 48 |
-| last180d | 2026-05-10 | 2 | 135 | 101 | 53 | 56 | 361 |
-| 360d | 2025-11-11 | 2 | 215 | 126 | 102 | 92 | 523 |
-| last720d | 2024-11-16 | 4 | 392 | 144 | 220 | 168 | 1241 |
+| 30d | 2026-10-08 | 0 | 12 | 28 | 5 | 16 | 26 |
+| last60d | 2026-09-08 | 0 | 26 | 46 | 6 | 26 | 39 |
+| 90d | 2026-08-09 | 0 | 39 | 65 | 13 | 38 | 50 |
+| last180d | 2026-05-11 | 2 | 136 | 100 | 53 | 56 | 363 |
+| 360d | 2025-11-12 | 2 | 217 | 125 | 102 | 92 | 525 |
+| last720d | 2024-11-17 | 4 | 394 | 143 | 220 | 168 | 1234 |
 
 ## Release assets
 
@@ -101,7 +101,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **168** distros on [repology.org](https://repology.org/project/restic). **57** are ✅ on the latest upstream release, **83** are ⚠️ on an older version.
+Reported by **168** distros on [repology.org](https://repology.org/project/restic). **60** are ✅ on the latest upstream release, **80** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -127,4 +127,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:56:28Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:12:02Z._
