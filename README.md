@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 37,211 · **Forks**: 1,961 · **Open issues**: 3,056 · **Contributors**: 443
+- **Stars**: 37,215 · **Forks**: 1,966 · **Open issues**: 3,056 · **Contributors**: 443
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 2484 · **Open PRs**: 155 · **Closed issues**: 2564 · **Open issues**: 492 · **Commits**: 9941
+- **Releases**: 51 · **Merged PRs**: 2484 · **Open PRs**: 157 · **Closed issues**: 2564 · **Open issues**: 492 · **Commits**: 9941
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 10 | 26 | 2 | 17 | 23 |
-| last60d | 2026-09-14 | 0 | 24 | 46 | 6 | 28 | 39 |
-| 90d | 2026-08-15 | 0 | 37 | 62 | 13 | 40 | 50 |
-| last180d | 2026-05-17 | 2 | 124 | 100 | 51 | 60 | 309 |
-| 360d | 2025-11-18 | 2 | 209 | 125 | 101 | 91 | 501 |
-| last720d | 2024-11-23 | 4 | 393 | 144 | 217 | 172 | 1234 |
+| 30d | 2026-10-15 | 0 | 10 | 27 | 2 | 17 | 23 |
+| last60d | 2026-09-15 | 0 | 24 | 48 | 6 | 28 | 39 |
+| 90d | 2026-08-16 | 0 | 37 | 64 | 12 | 39 | 50 |
+| last180d | 2026-05-18 | 2 | 124 | 101 | 50 | 60 | 309 |
+| 360d | 2025-11-19 | 2 | 208 | 127 | 101 | 90 | 501 |
+| last720d | 2024-11-24 | 4 | 393 | 146 | 217 | 171 | 1234 |
 
 ## Release assets
 
@@ -126,4 +126,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:01:49Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:35:38Z._
