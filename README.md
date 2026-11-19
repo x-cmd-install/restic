@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.19.1` (2026-07-05)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-17
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 37,268 · **Forks**: 1,978 · **Open issues**: 3,063 · **Contributors**: 449
+- **Stars**: 37,298 · **Forks**: 1,986 · **Open issues**: 3,066 · **Contributors**: 449
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 2499 · **Open PRs**: 154 · **Closed issues**: 2571 · **Open issues**: 492 · **Commits**: 9962
+- **Releases**: 51 · **Merged PRs**: 2500 · **Open PRs**: 153 · **Closed issues**: 2571 · **Open issues**: 495 · **Commits**: 9963
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 18 | 25 | 4 | 21 | 28 |
-| last60d | 2026-09-18 | 0 | 38 | 44 | 11 | 29 | 46 |
-| 90d | 2026-08-19 | 0 | 51 | 61 | 17 | 37 | 68 |
-| last180d | 2026-05-21 | 2 | 137 | 98 | 55 | 59 | 324 |
-| 360d | 2025-11-22 | 2 | 220 | 124 | 108 | 90 | 481 |
-| last720d | 2024-11-27 | 4 | 407 | 143 | 222 | 170 | 1255 |
+| 30d | 2026-10-20 | 0 | 19 | 21 | 4 | 23 | 0 |
+| last60d | 2026-09-20 | 0 | 33 | 43 | 11 | 32 | 0 |
+| 90d | 2026-08-21 | 0 | 51 | 55 | 17 | 38 | 0 |
+| last180d | 2026-05-23 | 2 | 138 | 97 | 55 | 62 | 0 |
+| 360d | 2025-11-24 | 2 | 220 | 122 | 107 | 93 | 0 |
+| last720d | 2024-11-29 | 4 | 407 | 142 | 221 | 172 | 1256 |
 
 ## Release assets
 
@@ -101,7 +101,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **167** distros on [repology.org](https://repology.org/project/restic). **59** are ✅ on the latest upstream release, **80** are ⚠️ on an older version.
+Reported by **166** distros on [repology.org](https://repology.org/project/restic). **59** are ✅ on the latest upstream release, **79** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -126,4 +126,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:05:43Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:59:08Z._
