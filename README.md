@@ -42,80 +42,80 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.19.1` (2026-07-05)
-- **Last commit**: 2026-11-17
+- **Latest**: `v0.20.0` (2026-11-19)
+- **Last commit**: 2026-11-19
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 37,298 · **Forks**: 1,986 · **Open issues**: 3,066 · **Contributors**: 449
+- **Stars**: 37,312 · **Forks**: 1,987 · **Open issues**: 3,066 · **Contributors**: 447
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 2500 · **Open PRs**: 153 · **Closed issues**: 2571 · **Open issues**: 495 · **Commits**: 9963
+- **Releases**: 52 · **Merged PRs**: 2499 · **Open PRs**: 154 · **Closed issues**: 2571 · **Open issues**: 495 · **Commits**: 9970
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 19 | 21 | 4 | 23 | 0 |
-| last60d | 2026-09-20 | 0 | 33 | 43 | 11 | 32 | 0 |
-| 90d | 2026-08-21 | 0 | 51 | 55 | 17 | 38 | 0 |
-| last180d | 2026-05-23 | 2 | 138 | 97 | 55 | 62 | 0 |
-| 360d | 2025-11-24 | 2 | 220 | 122 | 107 | 93 | 0 |
-| last720d | 2024-11-29 | 4 | 407 | 142 | 221 | 172 | 1256 |
+| 30d | 2026-10-21 | 1 | 17 | 22 | 4 | 22 | 36 |
+| last60d | 2026-09-21 | 1 | 32 | 43 | 11 | 32 | 54 |
+| 90d | 2026-08-22 | 1 | 50 | 56 | 17 | 38 | 76 |
+| last180d | 2026-05-24 | 3 | 137 | 98 | 54 | 62 | 332 |
+| 360d | 2025-11-25 | 3 | 219 | 123 | 106 | 93 | 489 |
+| last720d | 2024-11-30 | 5 | 404 | 142 | 220 | 172 | 1261 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [restic-0.19.1.tar.gz](https://github.com/restic/restic/releases/download/v0.19.1/restic-0.19.1.tar.gz) | 23.0 MiB | `native/unknown` |
-| [restic-0.19.1.tar.gz.asc](https://github.com/restic/restic/releases/download/v0.19.1/restic-0.19.1.tar.gz.asc) | 833 B | `other` |
-| [restic_0.19.1_aix_ppc64.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_aix_ppc64.bz2) | 9.3 MiB | `other` |
-| [restic_0.19.1_darwin_amd64.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_darwin_amd64.bz2) | 10.0 MiB | `native/darwin/x64` |
-| [restic_0.19.1_darwin_arm64.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_darwin_arm64.bz2) | 9.3 MiB | `native/darwin/arm64` |
-| [restic_0.19.1_dragonfly_amd64.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_dragonfly_amd64.bz2) | 9.5 MiB | `other` |
-| [restic_0.19.1_freebsd_386.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_freebsd_386.bz2) | 9.1 MiB | `other` |
-| [restic_0.19.1_freebsd_amd64.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_freebsd_amd64.bz2) | 9.6 MiB | `other` |
-| [restic_0.19.1_freebsd_arm.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_freebsd_arm.bz2) | 9.0 MiB | `other` |
-| [restic_0.19.1_linux_386.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_386.bz2) | 9.1 MiB | `other` |
-| [restic_0.19.1_linux_amd64.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_amd64.bz2) | 9.6 MiB | `native/linux/x64` |
-| [restic_0.19.1_linux_arm.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_arm.bz2) | 9.1 MiB | `native/linux/arm` |
-| [restic_0.19.1_linux_arm64.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_arm64.bz2) | 8.6 MiB | `native/linux/arm64` |
-| [restic_0.19.1_linux_mips.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_mips.bz2) | 8.2 MiB | `other` |
-| [restic_0.19.1_linux_mips64.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_mips64.bz2) | 7.9 MiB | `other` |
-| [restic_0.19.1_linux_mips64le.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_mips64le.bz2) | 8.0 MiB | `other` |
-| [restic_0.19.1_linux_mipsle.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_mipsle.bz2) | 8.3 MiB | `other` |
-| [restic_0.19.1_linux_ppc64le.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_ppc64le.bz2) | 8.6 MiB | `other` |
-| [restic_0.19.1_linux_riscv64.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_riscv64.bz2) | 9.3 MiB | `native/linux/riscv64` |
-| [restic_0.19.1_linux_s390x.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_linux_s390x.bz2) | 9.2 MiB | `other` |
-| [restic_0.19.1_netbsd_386.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_netbsd_386.bz2) | 9.0 MiB | `other` |
-| [restic_0.19.1_netbsd_amd64.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_netbsd_amd64.bz2) | 9.5 MiB | `other` |
-| [restic_0.19.1_openbsd_386.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_openbsd_386.bz2) | 9.0 MiB | `other` |
-| [restic_0.19.1_openbsd_amd64.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_openbsd_amd64.bz2) | 9.5 MiB | `other` |
-| [restic_0.19.1_solaris_amd64.bz2](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_solaris_amd64.bz2) | 9.5 MiB | `other` |
-| [restic_0.19.1_windows_386.zip](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_windows_386.zip) | 10.4 MiB | `native/win/x64` |
-| [restic_0.19.1_windows_amd64.zip](https://github.com/restic/restic/releases/download/v0.19.1/restic_0.19.1_windows_amd64.zip) | 10.7 MiB | `native/win/x64` |
-| [SHA256SUMS](https://github.com/restic/restic/releases/download/v0.19.1/SHA256SUMS) | 2.4 KiB | `other` |
-| [SHA256SUMS.asc](https://github.com/restic/restic/releases/download/v0.19.1/SHA256SUMS.asc) | 833 B | `other` |
+| [restic-0.20.0.tar.gz](https://github.com/restic/restic/releases/download/v0.20.0/restic-0.20.0.tar.gz) | 23.1 MiB | `native/unknown` |
+| [restic-0.20.0.tar.gz.asc](https://github.com/restic/restic/releases/download/v0.20.0/restic-0.20.0.tar.gz.asc) | 833 B | `other` |
+| [restic_0.20.0_aix_ppc64.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_aix_ppc64.bz2) | 11.6 MiB | `other` |
+| [restic_0.20.0_darwin_amd64.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_darwin_amd64.bz2) | 12.5 MiB | `native/darwin/x64` |
+| [restic_0.20.0_darwin_arm64.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_darwin_arm64.bz2) | 11.6 MiB | `native/darwin/arm64` |
+| [restic_0.20.0_dragonfly_amd64.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_dragonfly_amd64.bz2) | 11.9 MiB | `other` |
+| [restic_0.20.0_freebsd_386.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_freebsd_386.bz2) | 11.4 MiB | `other` |
+| [restic_0.20.0_freebsd_amd64.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_freebsd_amd64.bz2) | 12.0 MiB | `other` |
+| [restic_0.20.0_freebsd_arm.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_freebsd_arm.bz2) | 11.3 MiB | `other` |
+| [restic_0.20.0_linux_386.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_386.bz2) | 11.4 MiB | `other` |
+| [restic_0.20.0_linux_amd64.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_amd64.bz2) | 12.1 MiB | `native/linux/x64` |
+| [restic_0.20.0_linux_arm.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_arm.bz2) | 11.3 MiB | `native/linux/arm` |
+| [restic_0.20.0_linux_arm64.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_arm64.bz2) | 10.8 MiB | `native/linux/arm64` |
+| [restic_0.20.0_linux_mips.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_mips.bz2) | 10.3 MiB | `other` |
+| [restic_0.20.0_linux_mips64.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_mips64.bz2) | 9.9 MiB | `other` |
+| [restic_0.20.0_linux_mips64le.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_mips64le.bz2) | 10.0 MiB | `other` |
+| [restic_0.20.0_linux_mipsle.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_mipsle.bz2) | 10.4 MiB | `other` |
+| [restic_0.20.0_linux_ppc64le.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_ppc64le.bz2) | 10.7 MiB | `other` |
+| [restic_0.20.0_linux_riscv64.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_riscv64.bz2) | 11.7 MiB | `native/linux/riscv64` |
+| [restic_0.20.0_linux_s390x.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_s390x.bz2) | 11.4 MiB | `other` |
+| [restic_0.20.0_netbsd_386.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_netbsd_386.bz2) | 11.3 MiB | `other` |
+| [restic_0.20.0_netbsd_amd64.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_netbsd_amd64.bz2) | 11.9 MiB | `other` |
+| [restic_0.20.0_openbsd_386.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_openbsd_386.bz2) | 11.3 MiB | `other` |
+| [restic_0.20.0_openbsd_amd64.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_openbsd_amd64.bz2) | 11.9 MiB | `other` |
+| [restic_0.20.0_solaris_amd64.bz2](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_solaris_amd64.bz2) | 11.9 MiB | `other` |
+| [restic_0.20.0_windows_386.zip](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_windows_386.zip) | 12.9 MiB | `native/win/x64` |
+| [restic_0.20.0_windows_amd64.zip](https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_windows_amd64.zip) | 13.3 MiB | `native/win/x64` |
+| [SHA256SUMS](https://github.com/restic/restic/releases/download/v0.20.0/SHA256SUMS) | 2.4 KiB | `other` |
+| [SHA256SUMS.asc](https://github.com/restic/restic/releases/download/v0.20.0/SHA256SUMS.asc) | 833 B | `other` |
 
 ## Distribution status
 
-Reported by **166** distros on [repology.org](https://repology.org/project/restic). **59** are ✅ on the latest upstream release, **79** are ⚠️ on an older version.
+Reported by **166** distros on [repology.org](https://repology.org/project/restic). **10** are ✅ on the latest upstream release, **128** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `0.19.1` | ✅ latest |
+| Debian unstable | `0.19.1` | ⚠️ outdated |
 | Debian 13 | `0.18.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.18.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.16.4` | ⚠️ outdated |
-| Arch | `0.19.1` | ✅ latest |
-| Homebrew | `0.19.1` | ✅ latest |
-| Fedora rawhide | `0.19.1` | ✅ latest |
-| Nix unstable | `0.19.1` | ✅ latest |
-| Void | `0.19.1` | ✅ latest |
-| Alpine edge | `0.19.1` | ✅ latest |
-| openSUSE Tumbleweed | `0.19.1` | ✅ latest |
+| Arch | `0.19.1` | ⚠️ outdated |
+| Homebrew | `0.20.0` | ✅ latest |
+| Fedora rawhide | `0.19.1` | ⚠️ outdated |
+| Nix unstable | `0.19.1` | ⚠️ outdated |
+| Void | `0.19.1` | ⚠️ outdated |
+| Alpine edge | `0.19.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.19.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -126,4 +126,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:59:08Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:46:30Z._
