@@ -48,22 +48,22 @@ x install restic
 
 ## 流行度
 
-- **Star**: 37,312 · **Fork**: 1,987 · **开放 issue**: 3,066 · **贡献者**: 447
+- **Star**: 37,329 · **Fork**: 1,989 · **开放 issue**: 3,066 · **贡献者**: 447
 
 ## 累计统计
 
-- **发布数**: 52 · **已合并 PR**: 2499 · **开放 PR**: 154 · **已关闭 issue**: 2571 · **开放 issue**: 495 · **提交数**: 9970
+- **发布数**: 52 · **已合并 PR**: 2499 · **开放 PR**: 156 · **已关闭 issue**: 2571 · **开放 issue**: 495 · **提交数**: 9970
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 17 | 22 | 4 | 22 | 36 |
-| last60d | 2026-09-21 | 1 | 32 | 43 | 11 | 32 | 54 |
-| 90d | 2026-08-22 | 1 | 50 | 56 | 17 | 38 | 76 |
-| last180d | 2026-05-24 | 3 | 137 | 98 | 54 | 62 | 332 |
-| 360d | 2025-11-25 | 3 | 219 | 123 | 106 | 93 | 489 |
-| last720d | 2024-11-30 | 5 | 404 | 142 | 220 | 172 | 1261 |
+| 30d | 2026-10-22 | 1 | 15 | 23 | 4 | 20 | 36 |
+| last60d | 2026-09-22 | 1 | 32 | 45 | 11 | 32 | 54 |
+| 90d | 2026-08-23 | 1 | 50 | 58 | 17 | 38 | 76 |
+| last180d | 2026-05-25 | 3 | 137 | 98 | 54 | 62 | 332 |
+| 360d | 2025-11-26 | 3 | 217 | 125 | 106 | 93 | 489 |
+| last720d | 2024-12-01 | 5 | 399 | 144 | 220 | 172 | 1245 |
 
 ## Release 资产
 
@@ -101,19 +101,19 @@ x install restic
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/restic) 上共有 **166** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**128** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/restic) 上共有 **166** 个发行版报告此项目。**19** 个 ✅ 已是最新上游版本，**118** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Debian unstable | `0.19.1` | ⚠️ outdated |
+| Debian unstable | `0.19.1` | 🪦 legacy |
 | Debian 13 | `0.18.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.18.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.16.4` | ⚠️ outdated |
 | Arch | `0.19.1` | ⚠️ outdated |
-| Homebrew | `0.20.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.19.1` | ⚠️ outdated |
-| Nix unstable | `0.19.1` | ⚠️ outdated |
-| Void | `0.19.1` | ⚠️ outdated |
+| Nix unstable | `0.20.0` | ✅ latest |
+| Void | `0.20.0` | ✅ latest |
 | Alpine edge | `0.19.1` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.19.1` | ⚠️ outdated |
 
@@ -126,4 +126,4 @@ restic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T07:46:30Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T07:25:30Z._
