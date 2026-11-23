@@ -10,6 +10,71 @@
     - rschuetz17@gmail.com
   licenses:
     - BSD-2-Clause
+- repo: parabola
+  subrepo: extra
+  srcname: restic
+  binname: restic
+  visiblename: restic
+  version: 0.19.1
+  origversion: 0.19.1-1
+  status: outdated
+  summary: Fast, secure, efficient backup program
+  licenses:
+    - BSD
+- repo: pardus_21
+  subrepo: main
+  srcname: restic
+  binnames:
+    - restic
+  visiblename: restic
+  version: 0.11.0
+  origversion: 0.11.0-1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - felix+debian@gueux.org
+    - stapelberg@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: restic
+  binnames:
+    - restic
+  visiblename: restic
+  version: 0.18.0
+  origversion: 0.18.0-1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - felix@debian.org
+    - stapelberg@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: restic
+  binnames:
+    - restic
+  visiblename: restic
+  version: 0.18.0
+  origversion: 0.18.0-1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - felix@debian.org
+    - stapelberg@debian.org
+  categories:
+    - misc
+- repo: pclinuxos
+  srcname: restic
+  visiblename: restic
+  version: 0.9.5
+  origversion: 0.9.5-1pclos2019
+  status: outdated
+  summary: Backup and Restore program
+  categories:
+    - Archiving/Backup
 - repo: aerynos
   srcname: restic
   visiblename: restic
@@ -71,6 +136,15 @@
     - soeren+alpine@soeren-tempel.net
   licenses:
     - BSD-2-Clause
+- repo: wakemeops
+  subrepo: devops
+  binname: restic
+  visiblename: restic
+  version: 0.16.0
+  origversion: 0.16.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: alpine_3_18
   subrepo: community
   srcname: restic
@@ -123,134 +197,119 @@
     - soeren+alpine@soeren-tempel.net
   licenses:
     - BSD-2-Clause
-- repo: parabola
-  subrepo: extra
+- repo: alpine_3_19
+  subrepo: community
   srcname: restic
   binname: restic
   visiblename: restic
+  version: 0.16.4
+  origversion: 0.16.4-r2
+  status: outdated
+  summary: Fast, secure, efficient backup program
+  maintainers:
+    - soeren+alpine@soeren-tempel.net
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: restic
+  binname: restic-bash-completion
+  visiblename: restic-bash-completion
+  version: 0.16.4
+  origversion: 0.16.4-r2
+  status: outdated
+  summary: Bash completions for restic
+  maintainers:
+    - soeren+alpine@soeren-tempel.net
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: restic
+  binname: restic-doc
+  visiblename: restic-doc
+  version: 0.16.4
+  origversion: 0.16.4-r2
+  status: outdated
+  summary: Fast, secure, efficient backup program (documentation)
+  maintainers:
+    - soeren+alpine@soeren-tempel.net
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_19
+  subrepo: community
+  srcname: restic
+  binname: restic-zsh-completion
+  visiblename: restic-zsh-completion
+  version: 0.16.4
+  origversion: 0.16.4-r2
+  status: outdated
+  summary: Zsh completions for restic
+  maintainers:
+    - soeren+alpine@soeren-tempel.net
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: restic
+  binname: restic
+  visiblename: restic
+  version: 0.16.4
+  origversion: 0.16.4-r5
+  status: outdated
+  summary: Fast, secure, efficient backup program
+  maintainers:
+    - soeren+alpine@soeren-tempel.net
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: restic
+  binname: restic-bash-completion
+  visiblename: restic-bash-completion
+  version: 0.16.4
+  origversion: 0.16.4-r5
+  status: outdated
+  summary: Bash completions for restic
+  maintainers:
+    - soeren+alpine@soeren-tempel.net
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: restic
+  binname: restic-doc
+  visiblename: restic-doc
+  version: 0.16.4
+  origversion: 0.16.4-r5
+  status: outdated
+  summary: Fast, secure, efficient backup program (documentation)
+  maintainers:
+    - soeren+alpine@soeren-tempel.net
+  licenses:
+    - BSD-2-Clause
+- repo: alpine_3_20
+  subrepo: community
+  srcname: restic
+  binname: restic-zsh-completion
+  visiblename: restic-zsh-completion
+  version: 0.16.4
+  origversion: 0.16.4-r5
+  status: outdated
+  summary: Zsh completions for restic
+  maintainers:
+    - soeren+alpine@soeren-tempel.net
+  licenses:
+    - BSD-2-Clause
+- repo: chimera
+  subrepo: user
+  srcname: restic
+  binname: restic-doc
+  visiblename: restic-doc
   version: 0.19.1
-  origversion: 0.19.1-1
+  origversion: 0.19.1-r1
   status: outdated
-  summary: Fast, secure, efficient backup program
-  licenses:
-    - BSD
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: restic
-  binnames:
-    - restic
-  visiblename: restic
-  version: 0.18.0
-  origversion: 0.18.0-1
-  status: outdated
-  maintainers:
-    - pkg-go-maintainers@lists.alioth.debian.org
-    - felix@debian.org
-    - stapelberg@debian.org
-  categories:
-    - misc
-- repo: alpine_3_19
-  subrepo: community
-  srcname: restic
-  binname: restic
-  visiblename: restic
-  version: 0.16.4
-  origversion: 0.16.4-r2
-  status: outdated
-  summary: Fast, secure, efficient backup program
-  maintainers:
-    - soeren+alpine@soeren-tempel.net
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_19
-  subrepo: community
-  srcname: restic
-  binname: restic-bash-completion
-  visiblename: restic-bash-completion
-  version: 0.16.4
-  origversion: 0.16.4-r2
-  status: outdated
-  summary: Bash completions for restic
-  maintainers:
-    - soeren+alpine@soeren-tempel.net
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_19
-  subrepo: community
-  srcname: restic
-  binname: restic-doc
-  visiblename: restic-doc
-  version: 0.16.4
-  origversion: 0.16.4-r2
-  status: outdated
-  summary: Fast, secure, efficient backup program (documentation)
-  maintainers:
-    - soeren+alpine@soeren-tempel.net
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_19
-  subrepo: community
-  srcname: restic
-  binname: restic-zsh-completion
-  visiblename: restic-zsh-completion
-  version: 0.16.4
-  origversion: 0.16.4-r2
-  status: outdated
-  summary: Zsh completions for restic
-  maintainers:
-    - soeren+alpine@soeren-tempel.net
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_20
-  subrepo: community
-  srcname: restic
-  binname: restic
-  visiblename: restic
-  version: 0.16.4
-  origversion: 0.16.4-r5
-  status: outdated
-  summary: Fast, secure, efficient backup program
-  maintainers:
-    - soeren+alpine@soeren-tempel.net
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_20
-  subrepo: community
-  srcname: restic
-  binname: restic-bash-completion
-  visiblename: restic-bash-completion
-  version: 0.16.4
-  origversion: 0.16.4-r5
-  status: outdated
-  summary: Bash completions for restic
-  maintainers:
-    - soeren+alpine@soeren-tempel.net
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_20
-  subrepo: community
-  srcname: restic
-  binname: restic-doc
-  visiblename: restic-doc
-  version: 0.16.4
-  origversion: 0.16.4-r5
-  status: outdated
-  summary: Fast, secure, efficient backup program (documentation)
-  maintainers:
-    - soeren+alpine@soeren-tempel.net
-  licenses:
-    - BSD-2-Clause
-- repo: alpine_3_20
-  subrepo: community
-  srcname: restic
-  binname: restic-zsh-completion
-  visiblename: restic-zsh-completion
-  version: 0.16.4
-  origversion: 0.16.4-r5
-  status: outdated
-  summary: Zsh completions for restic
-  maintainers:
-    - soeren+alpine@soeren-tempel.net
+  summary: Backup tool (documentation)
   licenses:
     - BSD-2-Clause
 - repo: alpine_3_21
@@ -279,21 +338,6 @@
     - soeren+alpine@soeren-tempel.net
   licenses:
     - BSD-2-Clause
-- repo: pardus_21
-  subrepo: main
-  srcname: restic
-  binnames:
-    - restic
-  visiblename: restic
-  version: 0.11.0
-  origversion: 0.11.0-1
-  status: outdated
-  maintainers:
-    - pkg-go-maintainers@lists.alioth.debian.org
-    - felix+debian@gueux.org
-    - stapelberg@debian.org
-  categories:
-    - misc
 - repo: alpine_3_21
   subrepo: community
   srcname: restic
@@ -554,21 +598,6 @@
     - soeren+alpine@soeren-tempel.net
   licenses:
     - BSD-2-Clause
-- repo: parrot
-  subrepo: parrot/main
-  srcname: restic
-  binnames:
-    - restic
-  visiblename: restic
-  version: 0.18.0
-  origversion: 0.18.0-1
-  status: outdated
-  maintainers:
-    - pkg-go-maintainers@lists.alioth.debian.org
-    - felix@debian.org
-    - stapelberg@debian.org
-  categories:
-    - misc
 - repo: alpine_edge
   subrepo: community
   srcname: restic
@@ -640,6 +669,15 @@
     - BSD-2-Clause
   categories:
     - Archiving/Backup
+- repo: wikidata
+  srcname: Q113170086
+  visiblename: restic
+  version: 0.20.0
+  origversion: null
+  status: newest
+  summary: backup software
+  licenses:
+    - 2-clause BSD License
 - repo: aosc
   srcname: app-utils/restic
   binname: restic
@@ -654,17 +692,6 @@
     - util
 - repo: arch
   subrepo: extra
-  srcname: restic
-  binname: restic
-  visiblename: restic
-  version: 0.19.1
-  origversion: 0.19.1-1
-  status: outdated
-  summary: Fast, secure, efficient backup program
-  licenses:
-    - BSD
-- repo: arch_testing
-  subrepo: extra-testing
   srcname: restic
   binname: restic
   visiblename: restic
@@ -720,26 +747,6 @@
   summary: Backup tool (bash completions)
   licenses:
     - BSD-2-Clause
-- repo: chimera
-  subrepo: user
-  srcname: restic
-  binname: restic-doc
-  visiblename: restic-doc
-  version: 0.19.1
-  origversion: 0.19.1-r1
-  status: outdated
-  summary: Backup tool (documentation)
-  licenses:
-    - BSD-2-Clause
-- repo: pclinuxos
-  srcname: restic
-  visiblename: restic
-  version: 0.9.5
-  origversion: 0.9.5-1pclos2019
-  status: outdated
-  summary: Backup and Restore program
-  categories:
-    - Archiving/Backup
 - repo: chimera
   subrepo: user
   srcname: restic
@@ -916,22 +923,6 @@
   categories:
     - Unspecified
 - repo: fedora_39
-  subrepo: updates
-  srcname: restic
-  binnames:
-    - restic
-    - restic-debuginfo
-    - restic-debugsource
-  visiblename: restic
-  version: 0.16.2
-  origversion: 0.16.2-1.fc39
-  status: outdated
-  summary: Fast, secure, efficient backup program
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: release
   srcname: restic
   binnames:
@@ -942,6 +933,22 @@
   version: 0.15.2
   origversion: 0.15.2-1.fc39
   status: legacy
+  summary: Fast, secure, efficient backup program
+  licenses:
+    - BSD-2-Clause
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: updates
+  srcname: restic
+  binnames:
+    - restic
+    - restic-debuginfo
+    - restic-debugsource
+  visiblename: restic
+  version: 0.16.2
+  origversion: 0.16.2-1.fc39
+  status: outdated
   summary: Fast, secure, efficient backup program
   licenses:
     - BSD-2-Clause
@@ -964,22 +971,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: release
-  srcname: restic
-  binnames:
-    - restic
-    - restic-debuginfo
-    - restic-debugsource
-  visiblename: restic
-  version: 0.17.0
-  origversion: 0.17.0-1.fc41
-  status: legacy
-  summary: Fast, secure, efficient backup program
-  licenses:
-    - BSD-2-Clause
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: updates
   srcname: restic
   binnames:
@@ -995,20 +986,20 @@
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND MIT AND MPL-2.0
   categories:
     - Unspecified
-- repo: fedora_42
-  subrepo: updates
+- repo: fedora_41
+  subrepo: release
   srcname: restic
   binnames:
     - restic
     - restic-debuginfo
     - restic-debugsource
   visiblename: restic
-  version: 0.18.1
-  origversion: 0.18.1-1.fc42
-  status: outdated
+  version: 0.17.0
+  origversion: 0.17.0-1.fc41
+  status: legacy
   summary: Fast, secure, efficient backup program
   licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND MIT AND MPL-2.0
+    - BSD-2-Clause
   categories:
     - Unspecified
 - repo: fedora_42
@@ -1027,17 +1018,17 @@
     - BSD-2-Clause
   categories:
     - Unspecified
-- repo: fedora_43
-  subrepo: release
+- repo: fedora_42
+  subrepo: updates
   srcname: restic
   binnames:
     - restic
     - restic-debuginfo
     - restic-debugsource
   visiblename: restic
-  version: 0.18.0
-  origversion: 0.18.0-4.fc43
-  status: legacy
+  version: 0.18.1
+  origversion: 0.18.1-1.fc42
+  status: outdated
   summary: Fast, secure, efficient backup program
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND MIT AND MPL-2.0
@@ -1054,6 +1045,22 @@
   version: 0.19.1
   origversion: 0.19.1-1.fc43
   status: outdated
+  summary: Fast, secure, efficient backup program
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: restic
+  binnames:
+    - restic
+    - restic-debuginfo
+    - restic-debugsource
+  visiblename: restic
+  version: 0.18.0
+  origversion: 0.18.0-4.fc43
+  status: legacy
   summary: Fast, secure, efficient backup program
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND MIT AND MPL-2.0
@@ -1290,21 +1297,6 @@
     - MIT
   categories:
     - app-backup
-- repo: ubuntu_18_04
-  subrepo: bionic/universe
-  srcname: restic
-  binnames:
-    - restic
-  visiblename: restic
-  version: 0.8.3
-  origversion: 0.8.3+ds-1
-  status: outdated
-  maintainers:
-    - pkg-go-maintainers@lists.alioth.debian.org
-    - felix+debian@gueux.org
-    - stapelberg@debian.org
-  categories:
-    - universe/misc
 - repo: liguros_develop
   srcname: app-backup/restic
   visiblename: app-backup/restic
@@ -1589,15 +1581,6 @@
     - tom@naaa.de
   categories:
     - utils
-- repo: wakemeops
-  subrepo: devops
-  binname: restic
-  visiblename: restic
-  version: 0.16.0
-  origversion: 0.16.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: pacstall
   srcname: restic-bin
   binname: restic-bin
@@ -1855,6 +1838,21 @@
   summary: Fast, secure, efficient backup program
   maintainers:
     - termux@github
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: restic
+  binnames:
+    - restic
+  visiblename: restic
+  version: 0.8.3
+  origversion: 0.8.3+ds-1
+  status: outdated
+  maintainers:
+    - pkg-go-maintainers@lists.alioth.debian.org
+    - felix+debian@gueux.org
+    - stapelberg@debian.org
+  categories:
+    - universe/misc
 - repo: ubuntu_20_04
   subrepo: focal/universe
   srcname: restic
@@ -1871,21 +1869,6 @@
   categories:
     - universe/misc
 - repo: ubuntu_22_04
-  subrepo: jammy-updates/universe
-  srcname: restic
-  binnames:
-    - restic
-  visiblename: restic
-  version: 0.12.1
-  origversion: 0.12.1-2ubuntu0.3
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-    - felix@debian.org
-    - stapelberg@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_22_04
   subrepo: jammy/universe
   srcname: restic
   binnames:
@@ -1896,6 +1879,21 @@
   status: outdated
   maintainers:
     - pkg-go-maintainers@lists.alioth.debian.org
+    - felix@debian.org
+    - stapelberg@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy-updates/universe
+  srcname: restic
+  binnames:
+    - restic
+  visiblename: restic
+  version: 0.12.1
+  origversion: 0.12.1-2ubuntu0.3
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
     - felix@debian.org
     - stapelberg@debian.org
   categories:
@@ -2145,12 +2143,3 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: wikidata
-  srcname: Q113170086
-  visiblename: restic
-  version: 0.20.0
-  origversion: null
-  status: newest
-  summary: backup software
-  licenses:
-    - 2-clause BSD License
