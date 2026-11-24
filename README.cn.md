@@ -26,13 +26,13 @@ x install restic
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.3 / 10**
+总评分: **7.8 / 10**
 
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
-- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install restic
 
 ## 流行度
 
-- **Star**: 37,384 · **Fork**: 1,991 · **开放 issue**: 3,068 · **贡献者**: 451
+- **Star**: 37,419 · **Fork**: 1,993 · **开放 issue**: 3,068 · **贡献者**: 451
 
 ## 累计统计
 
-- **发布数**: 52 · **已合并 PR**: 2507 · **开放 PR**: 150 · **已关闭 issue**: 2577 · **开放 issue**: 491 · **提交数**: 9982
+- **发布数**: 52 · **已合并 PR**: 2507 · **开放 PR**: 152 · **已关闭 issue**: 2577 · **开放 issue**: 491 · **提交数**: 9982
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 15 | 28 | 7 | 17 | 43 |
-| last60d | 2026-09-24 | 1 | 34 | 48 | 15 | 29 | 59 |
-| 90d | 2026-08-25 | 1 | 51 | 61 | 21 | 36 | 73 |
-| last180d | 2026-05-27 | 3 | 142 | 95 | 58 | 59 | 310 |
-| 360d | 2025-11-28 | 3 | 225 | 118 | 110 | 88 | 484 |
-| last720d | 2024-12-03 | 5 | 406 | 137 | 223 | 169 | 1242 |
+| 30d | 2026-10-25 | 1 | 15 | 31 | 7 | 17 | 0 |
+| last60d | 2026-09-25 | 1 | 34 | 48 | 15 | 29 | 0 |
+| 90d | 2026-08-26 | 1 | 50 | 63 | 20 | 36 | 0 |
+| last180d | 2026-05-28 | 3 | 142 | 97 | 58 | 59 | 0 |
+| 360d | 2025-11-29 | 3 | 224 | 120 | 110 | 88 | 0 |
+| last720d | 2024-12-04 | 5 | 406 | 139 | 223 | 169 | 1242 |
 
 ## Release 资产
 
@@ -101,7 +101,7 @@ x install restic
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/restic) 上共有 **165** 个发行版报告此项目。**26** 个 ✅ 已是最新上游版本，**111** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/restic) 上共有 **165** 个发行版报告此项目。**31** 个 ✅ 已是最新上游版本，**106** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -110,12 +110,12 @@ x install restic
 | Ubuntu 26.04 LTS | `0.18.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.16.4` | ⚠️ outdated |
 | Arch | `0.20.0` | ✅ latest |
-| Homebrew | `0.20.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.19.1` | ⚠️ outdated |
 | Nix unstable | `0.20.0` | ✅ latest |
 | Void | `0.20.0` | ✅ latest |
 | Alpine edge | `0.20.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.19.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.20.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -126,4 +126,4 @@ restic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T09:19:00Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:09:01Z._

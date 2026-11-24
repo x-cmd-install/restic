@@ -26,13 +26,13 @@ Total: **80,661** lines of code across **588** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.3 / 10**
+Overall score: **7.8 / 10**
 
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
-- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **SAST** (0/10) — SAST tool is not run on all commits -- score normalized to 0
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 37,384 · **Forks**: 1,991 · **Open issues**: 3,068 · **Contributors**: 451
+- **Stars**: 37,419 · **Forks**: 1,993 · **Open issues**: 3,068 · **Contributors**: 451
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 2507 · **Open PRs**: 150 · **Closed issues**: 2577 · **Open issues**: 491 · **Commits**: 9982
+- **Releases**: 52 · **Merged PRs**: 2507 · **Open PRs**: 152 · **Closed issues**: 2577 · **Open issues**: 491 · **Commits**: 9982
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 15 | 28 | 7 | 17 | 43 |
-| last60d | 2026-09-24 | 1 | 34 | 48 | 15 | 29 | 59 |
-| 90d | 2026-08-25 | 1 | 51 | 61 | 21 | 36 | 73 |
-| last180d | 2026-05-27 | 3 | 142 | 95 | 58 | 59 | 310 |
-| 360d | 2025-11-28 | 3 | 225 | 118 | 110 | 88 | 484 |
-| last720d | 2024-12-03 | 5 | 406 | 137 | 223 | 169 | 1242 |
+| 30d | 2026-10-25 | 1 | 15 | 31 | 7 | 17 | 0 |
+| last60d | 2026-09-25 | 1 | 34 | 48 | 15 | 29 | 0 |
+| 90d | 2026-08-26 | 1 | 50 | 63 | 20 | 36 | 0 |
+| last180d | 2026-05-28 | 3 | 142 | 97 | 58 | 59 | 0 |
+| 360d | 2025-11-29 | 3 | 224 | 120 | 110 | 88 | 0 |
+| last720d | 2024-12-04 | 5 | 406 | 139 | 223 | 169 | 1242 |
 
 ## Release assets
 
@@ -101,7 +101,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **165** distros on [repology.org](https://repology.org/project/restic). **26** are ✅ on the latest upstream release, **111** are ⚠️ on an older version.
+Reported by **165** distros on [repology.org](https://repology.org/project/restic). **31** are ✅ on the latest upstream release, **106** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -110,12 +110,12 @@ Reported by **165** distros on [repology.org](https://repology.org/project/resti
 | Ubuntu 26.04 LTS | `0.18.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.16.4` | ⚠️ outdated |
 | Arch | `0.20.0` | ✅ latest |
-| Homebrew | `0.20.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.19.1` | ⚠️ outdated |
 | Nix unstable | `0.20.0` | ✅ latest |
 | Void | `0.20.0` | ✅ latest |
 | Alpine edge | `0.20.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.19.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.20.0` | ✅ latest |
 
 ## Improve this data
 
@@ -126,4 +126,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:19:00Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:09:00Z._
