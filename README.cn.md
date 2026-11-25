@@ -14,11 +14,11 @@ x install restic
 
 ## 代码洞察
 
-合计: **80,661** 行代码（覆盖前 5 种语言、共 **588** 个文件）。
+合计: **80,669** 行代码（覆盖前 5 种语言、共 **588** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 69,706 | 6,133 | 13,464 | 559 |
+| Go | 69,714 | 6,133 | 13,464 | 559 |
 | ReStructuredText | 6,568 | 0 | 2,089 | 23 |
 | Sh | 3,798 | 52 | 324 | 4 |
 | PowerShell | 159 | 63 | 48 | 1 |
@@ -43,27 +43,27 @@ x install restic
 ## 发布
 
 - **最新版本**: `v0.20.0` (2026-11-19)
-- **最近提交**: 2026-11-22
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 29 个
 
 ## 流行度
 
-- **Star**: 37,419 · **Fork**: 1,993 · **开放 issue**: 3,068 · **贡献者**: 451
+- **Star**: 37,437 · **Fork**: 1,998 · **开放 issue**: 3,068 · **贡献者**: 451
 
 ## 累计统计
 
-- **发布数**: 52 · **已合并 PR**: 2507 · **开放 PR**: 152 · **已关闭 issue**: 2577 · **开放 issue**: 491 · **提交数**: 9982
+- **发布数**: 52 · **已合并 PR**: 2508 · **开放 PR**: 155 · **已关闭 issue**: 2577 · **开放 issue**: 491 · **提交数**: 9983
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 15 | 31 | 7 | 17 | 0 |
-| last60d | 2026-09-25 | 1 | 34 | 48 | 15 | 29 | 0 |
-| 90d | 2026-08-26 | 1 | 50 | 63 | 20 | 36 | 0 |
-| last180d | 2026-05-28 | 3 | 142 | 97 | 58 | 59 | 0 |
-| 360d | 2025-11-29 | 3 | 224 | 120 | 110 | 88 | 0 |
-| last720d | 2024-12-04 | 5 | 406 | 139 | 223 | 169 | 1242 |
+| 30d | 2026-10-26 | 1 | 16 | 34 | 7 | 17 | 44 |
+| last60d | 2026-09-26 | 1 | 35 | 51 | 15 | 29 | 60 |
+| 90d | 2026-08-27 | 1 | 51 | 64 | 20 | 36 | 74 |
+| last180d | 2026-05-29 | 3 | 143 | 100 | 58 | 59 | 311 |
+| 360d | 2025-11-30 | 3 | 223 | 123 | 110 | 88 | 485 |
+| last720d | 2024-12-05 | 5 | 407 | 142 | 223 | 169 | 1243 |
 
 ## Release 资产
 
@@ -99,24 +99,6 @@ x install restic
 | [SHA256SUMS](https://github.com/restic/restic/releases/download/v0.20.0/SHA256SUMS) | 2.4 KiB | `other` |
 | [SHA256SUMS.asc](https://github.com/restic/restic/releases/download/v0.20.0/SHA256SUMS.asc) | 833 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/restic) 上共有 **165** 个发行版报告此项目。**31** 个 ✅ 已是最新上游版本，**106** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.20.0` | ✅ latest |
-| Debian 13 | `0.18.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.18.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.16.4` | ⚠️ outdated |
-| Arch | `0.20.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `0.19.1` | ⚠️ outdated |
-| Nix unstable | `0.20.0` | ✅ latest |
-| Void | `0.20.0` | ✅ latest |
-| Alpine edge | `0.20.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.20.0` | ✅ latest |
-
 ## 改进这些数据
 
 restic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `restic` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -126,4 +108,4 @@ restic 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T10:09:01Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:43:28Z._

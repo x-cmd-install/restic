@@ -14,11 +14,11 @@ x install restic
 
 ## Code insight
 
-Total: **80,661** lines of code across **588** files in the top 5 languages.
+Total: **80,669** lines of code across **588** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 69,706 | 6,133 | 13,464 | 559 |
+| Go | 69,714 | 6,133 | 13,464 | 559 |
 | ReStructuredText | 6,568 | 0 | 2,089 | 23 |
 | Sh | 3,798 | 52 | 324 | 4 |
 | PowerShell | 159 | 63 | 48 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.20.0` (2026-11-19)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-24
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 37,419 · **Forks**: 1,993 · **Open issues**: 3,068 · **Contributors**: 451
+- **Stars**: 37,437 · **Forks**: 1,998 · **Open issues**: 3,068 · **Contributors**: 451
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 2507 · **Open PRs**: 152 · **Closed issues**: 2577 · **Open issues**: 491 · **Commits**: 9982
+- **Releases**: 52 · **Merged PRs**: 2508 · **Open PRs**: 155 · **Closed issues**: 2577 · **Open issues**: 491 · **Commits**: 9983
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 15 | 31 | 7 | 17 | 0 |
-| last60d | 2026-09-25 | 1 | 34 | 48 | 15 | 29 | 0 |
-| 90d | 2026-08-26 | 1 | 50 | 63 | 20 | 36 | 0 |
-| last180d | 2026-05-28 | 3 | 142 | 97 | 58 | 59 | 0 |
-| 360d | 2025-11-29 | 3 | 224 | 120 | 110 | 88 | 0 |
-| last720d | 2024-12-04 | 5 | 406 | 139 | 223 | 169 | 1242 |
+| 30d | 2026-10-26 | 1 | 16 | 34 | 7 | 17 | 44 |
+| last60d | 2026-09-26 | 1 | 35 | 51 | 15 | 29 | 60 |
+| 90d | 2026-08-27 | 1 | 51 | 64 | 20 | 36 | 74 |
+| last180d | 2026-05-29 | 3 | 143 | 100 | 58 | 59 | 311 |
+| 360d | 2025-11-30 | 3 | 223 | 123 | 110 | 88 | 485 |
+| last720d | 2024-12-05 | 5 | 407 | 142 | 223 | 169 | 1243 |
 
 ## Release assets
 
@@ -99,24 +99,6 @@ Lowest-scoring checks:
 | [SHA256SUMS](https://github.com/restic/restic/releases/download/v0.20.0/SHA256SUMS) | 2.4 KiB | `other` |
 | [SHA256SUMS.asc](https://github.com/restic/restic/releases/download/v0.20.0/SHA256SUMS.asc) | 833 B | `other` |
 
-## Distribution status
-
-Reported by **165** distros on [repology.org](https://repology.org/project/restic). **31** are ✅ on the latest upstream release, **106** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.20.0` | ✅ latest |
-| Debian 13 | `0.18.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.18.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.16.4` | ⚠️ outdated |
-| Arch | `0.20.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `0.19.1` | ⚠️ outdated |
-| Nix unstable | `0.20.0` | ✅ latest |
-| Void | `0.20.0` | ✅ latest |
-| Alpine edge | `0.20.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.20.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `restic` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -126,4 +108,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:09:00Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:43:27Z._
