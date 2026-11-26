@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 24192747,
       "digest": "sha256:7def5bbe05e62640f7b030b865b6f304701fd876f7836f5a6a603b56e1f4e30a",
-      "download_count": 516,
+      "download_count": 651,
       "created_at": "2026-11-19T12:09:01Z",
       "updated_at": "2026-11-19T12:09:13Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic-0.20.0.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:2c4c56d3286f756c7f27d54ca2d8346423beeba2442db863452be53f493bde7b",
-      "download_count": 75,
+      "download_count": 110,
       "created_at": "2026-11-19T12:09:01Z",
       "updated_at": "2026-11-19T12:09:01Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic-0.20.0.tar.gz.asc"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12114571,
       "digest": "sha256:c04ca86c5b7b135c9feb9a30b3077c27877016d79853b10e38b7d34a0dfc19c9",
-      "download_count": 33,
+      "download_count": 48,
       "created_at": "2026-11-19T12:08:54Z",
       "updated_at": "2026-11-19T12:09:01Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_aix_ppc64.bz2"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13119441,
       "digest": "sha256:21f0070ef2bc6f3da2e33c070628e3e026e5237ba5fcddb1f9e0e8cabdd809d5",
-      "download_count": 368,
+      "download_count": 460,
       "created_at": "2026-11-19T12:08:46Z",
       "updated_at": "2026-11-19T12:08:54Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_darwin_amd64.bz2"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12147949,
       "digest": "sha256:0962c515acd9fb6937a658e9d8505200f72a6a0c6a2d334c0290b8002377dfb7",
-      "download_count": 1929,
+      "download_count": 2282,
       "created_at": "2026-11-19T12:08:39Z",
       "updated_at": "2026-11-19T12:08:46Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_darwin_arm64.bz2"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12467687,
       "digest": "sha256:855fed778efc9502a2d3856e81173b57ecccea83b4cbcac37d4a26b484d73ab6",
-      "download_count": 38,
+      "download_count": 57,
       "created_at": "2026-11-19T12:08:30Z",
       "updated_at": "2026-11-19T12:08:39Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_dragonfly_amd64.bz2"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 11935508,
       "digest": "sha256:4c90b99eff79116395f1682d03a9d60c39bb376c4affc8de1642aa67df0d2678",
-      "download_count": 38,
+      "download_count": 59,
       "created_at": "2026-11-19T12:08:24Z",
       "updated_at": "2026-11-19T12:08:30Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_freebsd_386.bz2"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12588238,
       "digest": "sha256:66fbb41d15141ae0aaa6fd86b7108c5e39ae3c0b485978edc7eeb2e652004442",
-      "download_count": 79,
+      "download_count": 98,
       "created_at": "2026-11-19T12:08:16Z",
       "updated_at": "2026-11-19T12:08:24Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_freebsd_amd64.bz2"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 11832746,
       "digest": "sha256:44987fbceac95aba5f096467bf028a28b92d03d10c7e31d7e868f4c3c5d25852",
-      "download_count": 31,
+      "download_count": 48,
       "created_at": "2026-11-19T12:08:08Z",
       "updated_at": "2026-11-19T12:08:16Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_freebsd_arm.bz2"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 11977064,
       "digest": "sha256:a23e8de316f2aa8ab2fcface8128d56c2afd24682dafb213484f87d441a28634",
-      "download_count": 105,
+      "download_count": 137,
       "created_at": "2026-11-19T12:08:01Z",
       "updated_at": "2026-11-19T12:08:08Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_386.bz2"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 12639573,
       "digest": "sha256:0ccd9fa7885074a24603b051e01bf9bd8b5e45d6a1791e9d9887e9e9372107f7",
-      "download_count": 36494,
+      "download_count": 42415,
       "created_at": "2026-11-19T12:07:53Z",
       "updated_at": "2026-11-19T12:08:01Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_amd64.bz2"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 11879402,
       "digest": "sha256:34fcedbb2493ade701e166af0cef5ea3d3f5aad1b0c268c7105e1ec511b7d7e1",
-      "download_count": 208,
+      "download_count": 233,
       "created_at": "2026-11-19T12:07:46Z",
       "updated_at": "2026-11-19T12:07:53Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_arm.bz2"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 11274882,
       "digest": "sha256:1188daded239bccb5952a01d2ad33e77a0d3dc34f9d9fc1e7fdda618d44938ef",
-      "download_count": 2189,
+      "download_count": 2523,
       "created_at": "2026-11-19T12:07:38Z",
       "updated_at": "2026-11-19T12:07:46Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_arm64.bz2"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 10774990,
       "digest": "sha256:6bb10d25fcef60924f06bed145d1be7f514cd28e1dbcb900106b9a08656eab24",
-      "download_count": 33,
+      "download_count": 35,
       "created_at": "2026-11-19T12:07:32Z",
       "updated_at": "2026-11-19T12:07:38Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_mips.bz2"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10365057,
       "digest": "sha256:ec5119e90ee24fa8638623b49b86f5bb05279040580c3fdedd4ec8676dcce19a",
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2026-11-19T12:05:55Z",
       "updated_at": "2026-11-19T12:06:03Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_mips64.bz2"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 10478416,
       "digest": "sha256:0d681dc86f551906e37c4c789c4b8ac05dfbb8f33af3fe584cdf1eca8c8c3c15",
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2026-11-19T12:07:26Z",
       "updated_at": "2026-11-19T12:07:32Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_mips64le.bz2"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 10913435,
       "digest": "sha256:7851a4d052054b558c953ad27adeed285c8f2f13cda95ed67056124ca0e775f2",
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2026-11-19T12:07:20Z",
       "updated_at": "2026-11-19T12:07:26Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_mipsle.bz2"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 11179277,
       "digest": "sha256:cc5c697380f66a27097f6c560ff3cf897013f89c2c8d3cf2245cab24dd64d688",
-      "download_count": 36,
+      "download_count": 38,
       "created_at": "2026-11-19T12:07:13Z",
       "updated_at": "2026-11-19T12:07:20Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_ppc64le.bz2"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 12259536,
       "digest": "sha256:e96cebcbf4b7bcad67282d583dfde93997eefaee255b43461e0a48bde4d68714",
-      "download_count": 46,
+      "download_count": 49,
       "created_at": "2026-11-19T12:07:06Z",
       "updated_at": "2026-11-19T12:07:13Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_riscv64.bz2"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 12003777,
       "digest": "sha256:885f49b0fda79cc487b9d1a53e942d35de076e3815d9371ca46b8e21695c93aa",
-      "download_count": 41,
+      "download_count": 43,
       "created_at": "2026-11-19T12:06:59Z",
       "updated_at": "2026-11-19T12:07:06Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_linux_s390x.bz2"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 11809156,
       "digest": "sha256:cc4749155a278a7d3c18711e99060de836f14df95378159a91965001e6384ddc",
-      "download_count": 35,
+      "download_count": 38,
       "created_at": "2026-11-19T12:06:52Z",
       "updated_at": "2026-11-19T12:06:59Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_netbsd_386.bz2"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 12468141,
       "digest": "sha256:eaf87b14b3a36c72f44c59532106ec643333783635002ee0742ee28677f761d7",
-      "download_count": 36,
+      "download_count": 39,
       "created_at": "2026-11-19T12:06:42Z",
       "updated_at": "2026-11-19T12:06:52Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_netbsd_amd64.bz2"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 11821359,
       "digest": "sha256:7ebe1586fe12adf6b5fcf40efecbd0dc83c920729b261d07b75dd46c0d038792",
-      "download_count": 36,
+      "download_count": 39,
       "created_at": "2026-11-19T12:06:35Z",
       "updated_at": "2026-11-19T12:06:42Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_openbsd_386.bz2"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 12476570,
       "digest": "sha256:18542cc8021693881b359e370e24c629177f9ab8c1bce62cbdabe84226a83f08",
-      "download_count": 40,
+      "download_count": 43,
       "created_at": "2026-11-19T12:06:29Z",
       "updated_at": "2026-11-19T12:06:36Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_openbsd_amd64.bz2"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 12473490,
       "digest": "sha256:2d8e50fd4b30a1338a88488a4c50e384552d536771c0d7157d89f9882804e72c",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2026-11-19T12:06:22Z",
       "updated_at": "2026-11-19T12:06:29Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_solaris_amd64.bz2"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 13531064,
       "digest": "sha256:ab849c4e351af2a2d9b96722668f8779ba6b38e7ef29cfa5c67d14d9b2cdcc2d",
-      "download_count": 241,
+      "download_count": 282,
       "created_at": "2026-11-19T12:06:12Z",
       "updated_at": "2026-11-19T12:06:22Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_windows_386.zip"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 13944434,
       "digest": "sha256:bba9061c3dce081701ab353ec8cb73a78be73b71a538aad560f2d1067602b7fe",
-      "download_count": 10859,
+      "download_count": 12734,
       "created_at": "2026-11-19T12:06:03Z",
       "updated_at": "2026-11-19T12:06:12Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/restic_0.20.0_windows_amd64.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 2503,
       "digest": "sha256:57850f4ec5257e288388f708c9866eea83f9d8a91f103f48408be63af1a709f3",
-      "download_count": 34387,
+      "download_count": 39275,
       "created_at": "2026-11-19T12:09:13Z",
       "updated_at": "2026-11-19T12:09:14Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/SHA256SUMS"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:42ef8ab4c722ecfd2e8b4c0fa16e7626a7907307dc78d0b3c259f8e8f65210c8",
-      "download_count": 26320,
+      "download_count": 29765,
       "created_at": "2026-11-19T12:09:13Z",
       "updated_at": "2026-11-19T12:09:13Z",
       "browser_download_url": "https://github.com/restic/restic/releases/download/v0.20.0/SHA256SUMS.asc"
