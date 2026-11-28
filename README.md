@@ -14,12 +14,12 @@ x install restic
 
 ## Code insight
 
-Total: **80,669** lines of code across **588** files in the top 5 languages.
+Total: **81,497** lines of code across **589** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 69,714 | 6,133 | 13,464 | 559 |
-| ReStructuredText | 6,568 | 0 | 2,089 | 23 |
+| Go | 70,535 | 6,177 | 13,544 | 560 |
+| ReStructuredText | 6,575 | 0 | 2,092 | 23 |
 | Sh | 3,798 | 52 | 324 | 4 |
 | PowerShell | 159 | 63 | 48 | 1 |
 | Zsh | 146 | 36 | 30 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.20.0` (2026-11-19)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-27
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 37,494 · **Forks**: 2,002 · **Open issues**: 3,068 · **Contributors**: 451
+- **Stars**: 37,515 · **Forks**: 2,002 · **Open issues**: 3,068 · **Contributors**: 453
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 2508 · **Open PRs**: 157 · **Closed issues**: 2577 · **Open issues**: 491 · **Commits**: 9983
+- **Releases**: 52 · **Merged PRs**: 2516 · **Open PRs**: 148 · **Closed issues**: 2578 · **Open issues**: 490 · **Commits**: 10002
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 15 | 35 | 7 | 17 | 44 |
-| last60d | 2026-09-28 | 1 | 35 | 52 | 15 | 29 | 60 |
-| 90d | 2026-08-29 | 1 | 48 | 66 | 19 | 34 | 74 |
-| last180d | 2026-05-31 | 3 | 137 | 102 | 58 | 59 | 311 |
-| 360d | 2025-12-02 | 3 | 217 | 125 | 110 | 88 | 485 |
-| last720d | 2024-12-07 | 5 | 406 | 144 | 223 | 169 | 1243 |
+| 30d | 2026-10-29 | 1 | 21 | 26 | 6 | 17 | 75 |
+| last60d | 2026-09-29 | 1 | 41 | 43 | 15 | 27 | 95 |
+| 90d | 2026-08-30 | 1 | 54 | 58 | 18 | 34 | 110 |
+| last180d | 2026-06-01 | 3 | 132 | 95 | 58 | 58 | 381 |
+| 360d | 2025-12-03 | 3 | 222 | 117 | 110 | 88 | 600 |
+| last720d | 2024-12-08 | 5 | 414 | 135 | 223 | 168 | 1262 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for restic lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:51:04Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:05:36Z._
